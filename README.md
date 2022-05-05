@@ -2,7 +2,7 @@
 -🔥 Front-End Developer<br>
 -☄ Estou cursando análise e desenvolvimento de sistemas
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/RickBryan0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickBryan0&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickBryan0&layout=compact&langs_count=7&theme=rose_pine"/>
