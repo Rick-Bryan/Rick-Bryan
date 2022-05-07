@@ -1,4 +1,4 @@
-### olá, me chamo Rick Bryan 
+### Olá, me chamo Rick Bryan 
 -🔥 Front-End Developer<br>
 -☄ Estou cursando análise e desenvolvimento de sistemas
 
