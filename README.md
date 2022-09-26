@@ -1,5 +1,5 @@
 ### Olá, me chamo Rick Bryan 
--🔥 Front-End Developer<br>
+-🔥 Web Developer<br>
 -☄ Estou cursando análise e desenvolvimento de sistemas
 
 <div style="display: inline_block" align="center">
